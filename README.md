@@ -13,4 +13,4 @@ MenteeLog is a multi-role web platform designed to streamline OJT tracking, DTR 
 - **Frontend Developer:** [Name]
 - **Backend Developer:** [Name]
 - **Backend Developer:** [Name]
-- **Researcher:** [Name]
+- **Researcher:** [Rolly G. Abella]
