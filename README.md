@@ -4,7 +4,7 @@
 MenteeLog is a multi-role web platform designed to streamline OJT tracking, DTR logging, HTE accreditation, and compliance reporting for Students, Supervisors, and Coordinators.
 
 ## System Architecture
-![System Architecture](./assets/system-architecture.png)
+![System Architecture](./assets/MenteeLog-System-Architecture.png)
 
 ## Team Roles & Contributions
 - **Lead / Project Manager:** [Jeff A. Gentapanan]
